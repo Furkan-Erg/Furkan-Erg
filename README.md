@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Furkan-Erg
 - 👀 I’m interested in ... Web development and browser rpg games
 - 🌱 I’m currently learning ... angular(html,css,js)
-- 💞️ I’m looking to collaborate on ...the game i tried to build by myself
+- 💞️ I’m looking to collaborate on ...the game i tried to build by myself which is browser rpg called Fecr
 - 📫 How to reach me ...you can use my social media accounts @erg09 is my insta id or you can directly email me furkanerguldurenler@hotmail.com
 
 <!---
